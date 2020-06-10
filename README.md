@@ -7,3 +7,5 @@ Voor de opdracht "Electro-akoestische syntesizer" heb wilde ik met een Teensy pr
 Helaas ligt mijn Teensy 3 nog in Utrecht. Ik wist niet dat de Teensy 4 nog veel audio probelemen heeft, en vaak ook niet ondersteund wordt door audio libraries. Hierdoor viel mijn plan om audio input te gebruiken een beetje in de soep. Op het moment wordt de afgespeelde frequentie bepaald door de ribbon potentiometer. Dit is minder cool omdat je nu echt moet proberen om een boventoonfrequentie te raken op de potmeter, terwijl je met de originele methode altijd raak zou zitten.
 
 Toch vind ik het resultaat nog best aardig klinken, en het bevestigd zeker dat het idee wel potentie heeft. Het is een goed prototype waar ik mee verder kan als ik mijn oude Teensy terug heb...
+
+Zowel de gebruikte code als de code die gebruikt zou worden met het originele concept staat in deze repo. Daarnaast een video en een schematische weergave.
