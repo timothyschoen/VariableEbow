@@ -9,3 +9,6 @@ Helaas ligt mijn Teensy 3 nog in Utrecht. Ik wist niet dat de Teensy 4 nog veel 
 Toch vind ik het resultaat nog best aardig klinken, en het bevestigd zeker dat het idee wel potentie heeft. Het is een goed prototype waar ik mee verder kan als ik mijn oude Teensy terug heb...
 
 Zowel de gebruikte code als de code die gebruikt zou worden met het originele concept staat in deze repo. Daarnaast een video en een schematische weergave.
+
+Video:
+https://drive.google.com/file/d/1GRaoLsrjWqtwp6QXOdJfBQ35Ok2LDgG9/view?usp=sharing
